@@ -1,6 +1,8 @@
-# Thermal Camera Viewer
+# Thermal camera viewer for Infiray P2 & Topdon TC001
 
 A Python application for viewing and recording thermal camera feeds from Infiray P2 and Topdon TC001 USB thermal cameras.
+
+<img width="50%" height="50%" alt="thermal-camera-2026-04-06-23_38_24" src="https://github.com/user-attachments/assets/3e198c61-b0b4-49b8-88fd-a85ac431717f" />
 
 ## Features
 
